@@ -1,0 +1,6 @@
+local api_module = {}
+    function api_module:LoadCode()
+        --print("[Atlas API] no code available")
+    end
+return api_module
+ 
