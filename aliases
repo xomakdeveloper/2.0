@@ -1,0 +1,5 @@
+local aliases = {}
+    aliases.v1_4 = "v1.4u02"
+    aliases.whitelist_version = "v3.0"
+    aliases.blacklist_version = "v3.0"
+return aliases

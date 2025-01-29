@@ -1,3 +1,0 @@
-local versions_alias = {}
-    versions_alias.v1_4 = "v1.4u02"
-return versions_alias
