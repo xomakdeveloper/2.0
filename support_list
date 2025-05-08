@@ -1,1 +1,3 @@
-local v1_4_1 = true
+local S = {}
+    S.v1_4_2 = true
+return S
