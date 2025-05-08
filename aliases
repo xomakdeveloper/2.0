@@ -1,9 +1,0 @@
-local aliases = {}
-    aliases.v1_4u02 = true
-
-    aliases.v1_4 = "v1.4u02"
-
-    aliases.debug_version = "3.0"
-    aliases.whitelist_version = "v3.0"
-    aliases.blacklist_version = "v3.0"
-return aliases
