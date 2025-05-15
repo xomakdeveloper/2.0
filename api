@@ -1,9 +1,9 @@
 local api_module = {}
 	function api_module:LoaderWorkTest()
-		--print("[Atlas API] Code loader works successfully")
+		print("[Atlas API] Code loader works successfully")
 	end
 
 	function api_module:LoadCode()
-		--print("[Atlas API] no code available")
+		print("[Atlas API] no code available")
 	end
 return api_module
